@@ -1,30 +1,30 @@
-## About Me 
+### About Me 
 
 Jean Belo Klamti was a postdoc fellow in the Department of Electrical and Computer Engineering at the University of Waterloo form October 2020 to April 2023. For his university degrees, he attended the Cheikh Anta Diop University of Dakar, Senegal. His Ph.D. research was on the “Design of Post-quantum Cryptosystems and Generalization of the Information Set Decoding Attack”, focusing on the design of error-correcting codes and code-based encryption schemes. It allowed him to participate in the NIST post-quantum cryptography standardization competition by contributing to the implementation of a code-based candidate named DAGS. 
 
 Before moving to Waterloo, Jean Belo was on the faculty from 2016 to 2020 at Cheikh Anta Diop of Dakar. He has experience in teaching and supervising undergraduate and graduate students.
 
-## Research Interests
+### Research Interests
 
 Public key cryptography (post-quantum cryptography and provable security), Quantum computing, Blockchain technology, Information security and privacy preserving, Coding theory, Finite fields and applications, Algebraic geometry, Formal calculus.
 
-## Work Experience
+### Work Experience
 
-### Oct. 2020 - Apr. 2023: Postdoc Fellow, University of Waterloo, Canada.
+** Oct. 2020 - Apr. 2023: Postdoc Fellow** 
+** University of Waterloo**
 
-Studying security of blockchain technology. 
+- Studying security of blockchain technology.
+- Designing post-quantum cryptographic primitives.
+- Implementing in C of code-based schemes.
 
-Designing post-quantum cryptographic primitives.
+** 2015 - 2018 Ph.D. Research** 
+** Cheikh Anta Diop University of Dakar - Senegal.**
 
-Implementing in C of code-based schemes.
+- Designing of post-quantum cryptosystems, 
+- Generalizing information set decoding attack 
 
-### 2015 - 2018: Doctoral Research, Cheikh Anta Diop University of Dakar - Senegal.
-
-Designing of post-quantum cryptosystems, 
-
-Generalizing information set decoding attack 
-
-### 2016 - 2018: Project ISPQ and CBC, Cheikh Anta Diop University of Dakar – Senegal
+** 2016 - 2018: Project ISPQ and CBC** 
+**Cheikh Anta Diop University of Dakar – Senegal**
 
 Implementing of a code-based key encapsulation mechanism (DAGS) in C for round 1 NIST PQC standardization.
 

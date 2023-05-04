@@ -1,14 +1,14 @@
-# About Me 
+## About Me 
 
 Jean Belo Klamti was a postdoc fellow in the Department of Electrical and Computer Engineering at the University of Waterloo form October 2020 to April 2023. For his university degrees, he attended the Cheikh Anta Diop University of Dakar, Senegal. His Ph.D. research was on the “Design of Post-quantum Cryptosystems and Generalization of the Information Set Decoding Attack”, focusing on the design of error-correcting codes and code-based encryption schemes. It allowed him to participate in the NIST post-quantum cryptography standardization competition by contributing to the implementation of a code-based candidate named DAGS. 
 
 Before moving to Waterloo, Jean Belo was on the faculty from 2016 to 2020 at Cheikh Anta Diop of Dakar. He has experience in teaching and supervising undergraduate and graduate students.
 
-# Research Interests
+## Research Interests
 
 Public key cryptography (post-quantum cryptography and provable security), Quantum computing, Blockchain technology, Information security and privacy preserving, Coding theory, Finite fields and applications, Algebraic geometry, Formal calculus.
 
-# Work Experience
+## Work Experience
 
 ### Oct. 2020 - Apr. 2023: Postdoc Fellow, University of Waterloo, Canada.
 -	Studying security of blockchain technology, 
@@ -44,7 +44,7 @@ Algebraic cryptanalysis of McEliece Cryptosystem, Master in Algebra, Geometry an
 
 Application of AI in cybersecurity for detection of persistent threats, Master in Data Transmission and Information Security (TDSI), Department of Mathematics and Computer Sciences - Faculty of Science and Technology, Cheikh Anta Diop University of Dakar - Senegal 
 
-# Publications:
+## Publications:
 
 ### Conference Papers:
 -  A Side-Channel Attack against Classic McEliece implementation, Accepetd to AfricaCrypt 2023, (Co-authors: B. Seck, P.-L. Cayrel, V.-F. Dragoi, I. Diop, M. Barbier, J. B. Klamti, V. Grosso and B. Colombier).
@@ -64,11 +64,13 @@ Application of AI in cybersecurity for detection of persistent threats, Master i
 - Generalized subspace subcodes with application in cryptology, IEEE Transactions on Information Theory (Volume: 65, Issue: 8, Aug. 2019), pages: 4641 - 4657, (Co-authors: T. P. Berger and C. T. Gueye).
 - DAGS: Key Encapsulation using Dyadic GS Codes, Journal of Mathematical Cryptology, ISSN (Online) 1862-2984, ISSN, (Co-authors: G. Banegas and P. S. L. M. Barreto and B. O. Boidje and P.-L. Cayrel and G. N. Dione and K. Gaj and C. T. Gueye and R. Haeussler and J. B. Klamti and O. N'diaye and D. T. Nguyen and E. Persichetti and J. E. Ricardini).
 
-# Education
+## Education
 
-### Jan. 2018: Ph.D. in Coding Cryptography Algebra and Applications, Cheikh Anta Diop University of Dakar
+- Jan. 2018: Ph.D. in Coding Cryptography Algebra and Applications, Cheikh Anta Diop University of Dakar
 
-### Apr. 2015 Master's Degree in Algebra Geometry and Applications, Cheikh Anta Diop University of Dakar
+- Apr. 2015 Master's Degree in Algebra Geometry and Applications, Cheikh Anta Diop University of Dakar
 
-### Dec. 2012: Bachelor's Degree in Mathematics and Computer Science,  Cheikh Anta Diop University of Dakar
+- Dec. 2012: Bachelor's Degree in Mathematics and Computer Science,  Cheikh Anta Diop University of Dakar
+
+## Misc
 

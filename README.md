@@ -10,28 +10,32 @@ Public key cryptography (post-quantum cryptography and provable security), Quant
 
 ### Work Experience
 
-Oct. 2020 - Apr. 2023: Postdoc Fellow, University of Waterloo -  Canada
+#### Oct. 2020 - Apr. 2023: Postdoc Fellow 
+University of Waterloo -  Canada
 
 - Studying security of blockchain technology.
 - Designing post-quantum cryptographic primitives.
 - Implementing in C of code-based schemes.
 
-2015 - 2018 Ph.D. Research, Cheikh Anta Diop University of Dakar - Senegal.
+#### 2015 - 2018 Ph.D. Research, 
+Cheikh Anta Diop University of Dakar - Senegal.
 
 - Designing of post-quantum cryptosystems, 
 - Generalizing information set decoding attack 
 
-2016 - 2018: Project ISPQ and CBC, Cheikh Anta Diop University of Dakar – Senegal
+#### 2016 - 2018: Project ISPQ and CBC 
+Cheikh Anta Diop University of Dakar – Senegal
 
 - Implementing of a code-based key encapsulation mechanism (DAGS) in C for round 1 NIST PQC standardization.
 - Implementing of an efficient code-based pseudo-random generator (2SC) in VHDL.
 - Implementing of McEliece cryptosystem using Goppa binary in VHDL: key generation and encryption algorithms.
 
-2013 - 2015: Graduate Research, Cheikh Anta Diop, University of Dakar - Senegal
+#### 2013 - 2015: Graduate Research 
+Cheikh Anta Diop, University of Dakar - Senegal
 
 - Implementing code-based encryption schemes in python: McEliece, Niederreiter and HyMES cryptosystems.
 
-Teaching
+#### Teaching
 
 2016-2020: Cheikh Anta Diop University of Dakar – Senegal
 
@@ -56,7 +60,7 @@ Teaching
 
 
 
-Supervision of master’s thesis
+#### Supervision of master’s thesis
 
 
 - 2018: Ahmadou NIANG 
@@ -67,7 +71,7 @@ Application of AI in cybersecurity for detection of persistent threats, Master i
 
 ## Publications:
 
-### Conference Papers:
+#### Conference Papers:
 
 -  A Side-Channel Attack against Classic McEliece implementation, Accepetd to AfricaCrypt 2023, (Co-authors: B. Seck, P.-L. Cayrel, V.-F. Dragoi, I. Diop, M. Barbier, J. B. Klamti, V. Grosso and B. Colombier).
 -	Software Implementation of a Code-Based Key Encapsulation Mechanism from Binary QD Generalized Srivastava Codes, In : Code-Based Cryptography Workshop. Springer, Cham, 2023. p. 77-89 (Co-authors: B. Seck, C. T. Gueye, G. N. Dione, P.-L. Cayrel, I. Diop, and O. Ndiaye).
@@ -79,7 +83,7 @@ Application of AI in cybersecurity for detection of persistent threats, Master i
 -	Generalization of BJMM-ISD Using May-Ozerov Nearest Neighbor Algorithm over an Arbitrary Finite Field F_q, In C2SI 2017: Codes, Cryptology and Information Security, pages 96-109, (Co-authors: S. Hirose and C. T. Gueye).
 -	NP-Complete Problem in Coding Theory with Application to Code Based Cryptography, In C2SI 2017: Codes, Cryptology and Information Security, pages 230-237, (Co-authors: T. P. Berger and C. T. Gueye).
 
-### Journal Papers:
+#### Journal Papers:
 
 - A code-based hybrid signcryption scheme, Accepted to Journal of Mathematical Cryptology (2023), (Co-authors: M. A. Hasan).
 - Post-quantum two-party adaptor signature based on coding theory, Cryptography 2022, 6, 6. (Co-author: M. A. Hasan)

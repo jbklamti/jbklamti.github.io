@@ -11,31 +11,51 @@ Public key cryptography (post-quantum cryptography and provable security), Quant
 ## Work Experience
 
 ### Oct. 2020 - Apr. 2023: Postdoc Fellow, University of Waterloo, Canada.
+
 -	Studying security of blockchain technology, 
 -	Designing post-quantum cryptographic primitives 
 -	Implementing in C of code-based schemes
+
 ### 2015 - 2018: Doctoral Research, Cheikh Anta Diop University of Dakar - Senegal
+
 - Designing of post-quantum cryptosystems, 
 - Generalizing information set decoding attack 
+
 ### 2016 - 2018: Project ISPQ and CBC, Cheikh Anta Diop University of Dakar – Senegal
+
 -	Implementing of a code-based key encapsulation mechanism (DAGS) in C for round 1 NIST PQC standardization.
 -	Implementing of an efficient code-based pseudo-random generator (2SC) in VHDL.
 -	Implementing of McEliece cryptosystem using Goppa binary in VHDL: key generation and encryption algorithms.
+
 ### 2013 - 2015: Graduate Research, Cheikh Anta Diop, University of Dakar - Senegal
+
 -	Implementing code-based encryption schemes in python: McEliece, Niederreiter and HyMES cryptosystems.
+
 ### Teaching
+
 #### 2016-2020: Cheikh Anta Diop University of Dakar – Senegal
+
 - Lecturing and tutoring python programming, coding theory for graduate and undergraduate students
 - Lecturing and tutoring group theory and finite fields for undergraduate students
+
 #### 2016-2020: Ecole Supérieure de Sciences Appliquées – Dakar – Senegal
+
 - Lecturing unified modeling language (UML) and python programming for undergraduate students 
+
 #### 2019-2020: Centre Africain d’Etudes Supérieures en Gestion - Dakar-Senegal
+
 - Lecturing numerical analysis for graduate and undergraduate students
+
 #### 2019-2020: Institut de Management et de Technologie Nelson Mandela, Dakar -Senegal.
+
 - Introducing cryptography and pen-testing for undergraduate students
+
 #### 2018-2019: Institut Professionnel pour la Sécurité Informatique (IPROSI), Dakar – Sénégal.
+
 - Introducing information security for undergraduate students
+
 ### Supervision of master’s thesis
+
 #### 2018: Ahmadou NIANG 
 
 Algebraic cryptanalysis of McEliece Cryptosystem, Master in Algebra, Geometry and Applications, Department of Mathematics and Computer Sciences - Faculty of Science and Technology, Cheikh Anta Diop University of Dakar - Senegal
@@ -47,6 +67,7 @@ Application of AI in cybersecurity for detection of persistent threats, Master i
 ## Publications:
 
 ### Conference Papers:
+
 -  A Side-Channel Attack against Classic McEliece implementation, Accepetd to AfricaCrypt 2023, (Co-authors: B. Seck, P.-L. Cayrel, V.-F. Dragoi, I. Diop, M. Barbier, J. B. Klamti, V. Grosso and B. Colombier).
 -	Software Implementation of a Code-Based Key Encapsulation Mechanism from Binary QD Generalized Srivastava Codes, In : Code-Based Cryptography Workshop. Springer, Cham, 2023. p. 77-89 (Co-authors: B. Seck, C. T. Gueye, G. N. Dione, P.-L. Cayrel, I. Diop, and O. Ndiaye).
 -	Security Analysis of a Cryptosystem based on Subspace Subcodes, In : Code-Based Cryptography: 9th International Workshop, CBCrypto 2021 Munich, Germany, June 21–22, 2021 Revised Selected Papers. Cham : Springer International Publishing, 2022. p. 42-59.(Co-authors: T. P. Berger, A. N. Gueye, C. T. Gueye, M. A. Hasan, E. Persichetti, T. H. Randrianarisoa and O. Ruatta).

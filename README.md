@@ -1,5 +1,3 @@
-# porftolio
-
-## Education
+### Jean Belo KLAMTI
 
 

@@ -65,7 +65,6 @@ Oct. 2020 - Apr. 2023: University of Waterloo -  Canada
 
 - 2018: Ahmadou NIANG 
 Algebraic cryptanalysis of McEliece Cryptosystem, Master in Algebra, Geometry and Applications, Department of Mathematics and Computer Sciences - Faculty of Science and Technology, Cheikh Anta Diop University of Dakar - Senegal.
-
 - 2021: Adja Fatou Elisabeth KOUASSI 
 Application of AI in cybersecurity for detection of persistent threats, Master in Data Transmission and Information Security (TDSI), Department of Mathematics and Computer Sciences - Faculty of Science and Technology, Cheikh Anta Diop University of Dakar - Senegal 
 
@@ -97,9 +96,7 @@ Application of AI in cybersecurity for detection of persistent threats, Master i
 ### Education
 
 - Jan. 2018: Ph.D. in Coding Cryptography Algebra and Applications, Cheikh Anta Diop University of Dakar
-
 - Apr. 2015 Master's Degree in Algebra Geometry and Applications, Cheikh Anta Diop University of Dakar
-
 - Dec. 2012: Bachelor's Degree in Mathematics and Computer Science,  Cheikh Anta Diop University of Dakar
 
 

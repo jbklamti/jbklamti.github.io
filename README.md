@@ -33,32 +33,35 @@ Public key cryptography (post-quantum cryptography and provable security), Quant
 
 ### Teaching
 
-#### 2016-2020: Cheikh Anta Diop University of Dakar – Senegal
+2016-2020: Cheikh Anta Diop University of Dakar – Senegal
 
 - Lecturing and tutoring python programming, coding theory for graduate and undergraduate students
 - Lecturing and tutoring group theory and finite fields for undergraduate students
 
-#### 2016-2020: Ecole Supérieure de Sciences Appliquées – Dakar – Senegal
+2016-2020: Ecole Supérieure de Sciences Appliquées – Dakar – Senegal
 
 - Lecturing unified modeling language (UML) and python programming for undergraduate students 
 
-#### 2019-2020: Centre Africain d’Etudes Supérieures en Gestion - Dakar-Senegal
+2019-2020: Centre Africain d’Etudes Supérieures en Gestion - Dakar-Senegal
 
 - Lecturing numerical analysis for graduate and undergraduate students
 
-#### 2019-2020: Institut de Management et de Technologie Nelson Mandela, Dakar -Senegal.
+2019-2020: Institut de Management et de Technologie Nelson Mandela, Dakar -Senegal.
 
 - Introducing cryptography and pen-testing for undergraduate students
 
-#### 2018-2019: Institut Professionnel pour la Sécurité Informatique (IPROSI), Dakar – Sénégal.
+2018-2019: Institut Professionnel pour la Sécurité Informatique (IPROSI), Dakar – Sénégal.
 
 - Introducing information security for undergraduate students
 
+
+
 ### Supervision of master’s thesis
+
 
 #### 2018: Ahmadou NIANG 
 
-Algebraic cryptanalysis of McEliece Cryptosystem, Master in Algebra, Geometry and Applications, Department of Mathematics and Computer Sciences - Faculty of Science and Technology, Cheikh Anta Diop University of Dakar - Senegal
+Algebraic cryptanalysis of McEliece Cryptosystem, Master in Algebra, Geometry and Applications, Department of Mathematics and Computer Sciences - Faculty of Science and Technology, Cheikh Anta Diop University of Dakar - Senegal.
 
 #### 2021: Adja Fatou Elisabeth KOUASSI 
 

@@ -48,21 +48,20 @@ Application of AI in cybersecurity for detection of persistent threats, Master i
 
 ### Conference Papers:
 -  A Side-Channel Attack against Classic McEliece implementation, Accepetd to AfricaCrypt 2023, (Co-authors: B. Seck, P.-L. Cayrel, V.-F. Dragoi, I. Diop, M. Barbier, J. B. Klamti, V. Grosso and B. Colombier).
--	Software Implementation of a Code-Based Key Encapsulation Mechanism from Binary QD Generalized Srivastava Codes, accepted and presented in CBCrypto 2022: https://www.cb-crypto.org/previous-editions/cbcrypto2022/program, (Co-authors: B. Seck, C. T. Gueye, G. N. Dione, P.-L. Cayrel, I. Diop, and O. Ndiaye).
--	Post-quantum two-party adaptor signature based on coding theory, Cryptography 2022, 6, 6. https://doi.org/10.3390/cryptography6010006 (Co-author: M. A. Hasan)
--	Security Analysis of a Cryptosystem based on Subspace Subcodes, accepted in CBCrypto 2021, (Co-authors: T. P. Berger, A. N. Gueye, C. T. Gueye, M. A. Hasan, E. Persichetti, T. H. Randrianarisoa and O. Ruatta).
--	Improvement of Binary and Non-Binary Statistical Decoding Algorithm, ICISC 2019: 22nd International Conference pp 194-207, (Co-authors: P-L. Cayrel, C. T. Gueye, J. A. Khan, and E. Persichetti)
--	Quasi-Dyadic Girault Identification Scheme, C2SI 2019: Codes, Cryptology and Information Security pp 307-321, (Co-authors: B. O. Boidje, C. T. Gueye and G. N. Dione).
--	Designing a public key cryptosystem based on quasi-cyclic subspace subcodes of Reed-Solomon codes, A2C: Algebra, Codes and Cryptology - Dakar, Senegal, December, 2019 (Co-authors: Thierry P. BERGER, Cheikh Thiecoumba GUEYE and Olivier RUATTA).
--	DAGS: Reloaded Revisiting Dyadic Key Encapsulation, CBC 2019: Code-Based Cryptography Workshop pages 69 - 85, (Co-authors: G. Banegas and P. S. L. M. Barreto and B. O. Boidje and P.-L. Cayrel and G. N. Dione and K. Gaj and C. T. Gueye and R. Haeussler and J. B. Klamti and O. N'diaye and D. T. Nguyen and E. Persichetti and J. E. Ricardini).
--	Generalization of BJMM-ISD Using May-Ozerov Nearest Neighbor Algorithm over an Arbitrary Finite Field F_q, C2SI 2017: Codes, Cryptology and Information Security, pages 96-109, (Co-authors: S. Hirose and C. T. Gueye).
--	NP-Complete Problem in Coding Theory with Application to Code Based Cryptography, C2SI 2017: Codes, Cryptology and Information Security, pages 230-237, (Co-authors: T. P. Berger and C. T. Gueye).
+-	Software Implementation of a Code-Based Key Encapsulation Mechanism from Binary QD Generalized Srivastava Codes, In : Code-Based Cryptography Workshop. Springer, Cham, 2023. p. 77-89 (Co-authors: B. Seck, C. T. Gueye, G. N. Dione, P.-L. Cayrel, I. Diop, and O. Ndiaye).
+-	Security Analysis of a Cryptosystem based on Subspace Subcodes, In : Code-Based Cryptography: 9th International Workshop, CBCrypto 2021 Munich, Germany, June 21–22, 2021 Revised Selected Papers. Cham : Springer International Publishing, 2022. p. 42-59.(Co-authors: T. P. Berger, A. N. Gueye, C. T. Gueye, M. A. Hasan, E. Persichetti, T. H. Randrianarisoa and O. Ruatta).
+-	Improvement of Binary and Non-Binary Statistical Decoding Algorithm, In ICISC 2019: 22nd International Conference pp 194-207, (Co-authors: P-L. Cayrel, C. T. Gueye, J. A. Khan, and E. Persichetti)
+-	Quasi-Dyadic Girault Identification Scheme, In C2SI 2019: Codes, Cryptology and Information Security pp 307-321, (Co-authors: B. O. Boidje, C. T. Gueye and G. N. Dione).
+-	Designing a public key cryptosystem based on quasi-cyclic subspace subcodes of Reed-Solomon codes, In A2C: Algebra, Codes and Cryptology - Dakar, Senegal, December, 2019 (Co-authors: Thierry P. BERGER, Cheikh Thiecoumba GUEYE and Olivier RUATTA).
+-	DAGS: Reloaded Revisiting Dyadic Key Encapsulation, In CBC 2019: Code-Based Cryptography Workshop pages 69 - 85, (Co-authors: G. Banegas and P. S. L. M. Barreto and B. O. Boidje and P.-L. Cayrel and G. N. Dione and K. Gaj and C. T. Gueye and R. Haeussler and J. B. Klamti and O. N'diaye and D. T. Nguyen and E. Persichetti and J. E. Ricardini).
+-	Generalization of BJMM-ISD Using May-Ozerov Nearest Neighbor Algorithm over an Arbitrary Finite Field F_q, In C2SI 2017: Codes, Cryptology and Information Security, pages 96-109, (Co-authors: S. Hirose and C. T. Gueye).
+-	NP-Complete Problem in Coding Theory with Application to Code Based Cryptography, In C2SI 2017: Codes, Cryptology and Information Security, pages 230-237, (Co-authors: T. P. Berger and C. T. Gueye).
 
 ### Journal Papers:
 
 - A code-based hybrid signcryption scheme, Accepted to Journal of Mathematical Cryptology (2023), (Co-authors: M. A. Hasan).
-- Post-quantum two-party adaptor signature based on coding theory, Cryptography 2022, 6, 6. https://doi.org/10.3390/cryptography6010006 (Co-author: M. A. Hasan)
-- Generalized subspace subcodes with application in cryptology, IEEE Transactions on Information Theory (Volume: 65, Issue: 8, Aug. 2019), pages: 4641 - 4657, https://ieeexplore.ieee.org/document/86851322, (Co-authors: T. P. Berger and C. T. Gueye).
+- Post-quantum two-party adaptor signature based on coding theory, Cryptography 2022, 6, 6. (Co-author: M. A. Hasan)
+- Generalized subspace subcodes with application in cryptology, IEEE Transactions on Information Theory (Volume: 65, Issue: 8, Aug. 2019), pages: 4641 - 4657, (Co-authors: T. P. Berger and C. T. Gueye).
 - DAGS: Key Encapsulation using Dyadic GS Codes, Journal of Mathematical Cryptology, ISSN (Online) 1862-2984, ISSN, (Co-authors: G. Banegas and P. S. L. M. Barreto and B. O. Boidje and P.-L. Cayrel and G. N. Dione and K. Gaj and C. T. Gueye and R. Haeussler and J. B. Klamti and O. N'diaye and D. T. Nguyen and E. Persichetti and J. E. Ricardini).
 
 # Education

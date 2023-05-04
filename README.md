@@ -10,28 +10,28 @@ Public key cryptography (post-quantum cryptography and provable security), Quant
 
 ### Work Experience
 
-#### Oct. 2020 - Apr. 2023: Postdoc Fellow 
-University of Waterloo -  Canada
+#### Postdoc Fellow 
+Oct. 2020 - Apr. 2023: University of Waterloo -  Canada
 
 - Studying security of blockchain technology.
 - Designing post-quantum cryptographic primitives.
 - Implementing in C of code-based schemes.
 
-#### 2015 - 2018 Ph.D. Research, 
-Cheikh Anta Diop University of Dakar - Senegal.
+#### Ph.D. Research, 
+2015 - 2018: Cheikh Anta Diop University of Dakar - Senegal.
 
 - Designing of post-quantum cryptosystems, 
 - Generalizing information set decoding attack 
 
-#### 2016 - 2018: Project ISPQ and CBC 
-Cheikh Anta Diop University of Dakar – Senegal
+####  Project ISPQ and CBC 
+2016 - 2018: Cheikh Anta Diop University of Dakar – Senegal
 
 - Implementing of a code-based key encapsulation mechanism (DAGS) in C for round 1 NIST PQC standardization.
 - Implementing of an efficient code-based pseudo-random generator (2SC) in VHDL.
 - Implementing of McEliece cryptosystem using Goppa binary in VHDL: key generation and encryption algorithms.
 
-#### 2013 - 2015: Graduate Research 
-Cheikh Anta Diop, University of Dakar - Senegal
+#### Graduate Research 
+2013 - 2015: Cheikh Anta Diop, University of Dakar - Senegal
 
 - Implementing code-based encryption schemes in python: McEliece, Niederreiter and HyMES cryptosystems.
 

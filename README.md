@@ -1,5 +1,5 @@
 # porftolio
 
-### Education
+## Education
 
 

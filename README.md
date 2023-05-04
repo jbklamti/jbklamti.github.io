@@ -12,11 +12,11 @@ Public key cryptography (post-quantum cryptography and provable security), Quant
 
 ### Oct. 2020 - Apr. 2023: Postdoc Fellow, University of Waterloo, Canada.
 
--	Studying security of blockchain technology, 
--	Designing post-quantum cryptographic primitives 
--	Implementing in C of code-based schemes
+-	Studying security of blockchain technology. 
+-	Designing post-quantum cryptographic primitives.
+-	Implementing in C of code-based schemes.
 
-### 2015 - 2018: Doctoral Research, Cheikh Anta Diop University of Dakar - Senegal
+### 2015 - 2018: Doctoral Research, Cheikh Anta Diop University of Dakar - Senegal.
 
 - Designing of post-quantum cryptosystems, 
 - Generalizing information set decoding attack 

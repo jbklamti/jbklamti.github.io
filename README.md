@@ -60,7 +60,7 @@ Oct. 2020 - Apr. 2023: University of Waterloo -  Canada
 
 
 
-#### Supervision of master’s thesis:
+#### Supervision of Master’s Thesis:
 
 
 - 2018: Ahmadou NIANG 
@@ -73,7 +73,7 @@ Application of AI in cybersecurity for detection of persistent threats, Master i
 ### Publications:
 
 - [Dblp](https://dblp.org/pid/196/0690.html)
-- [Google Scholar}(https://scholar.google.com/citations?user=GFxjAtsAAAAJ&hl=fr)
+- [Google Scholar](https://scholar.google.com/citations?user=GFxjAtsAAAAJ&hl=fr)
 
 #### Conference Papers:
 

@@ -11,6 +11,7 @@ Public key cryptography (post-quantum cryptography and provable security), Quant
 ### Work Experience
 
 ** Oct. 2020 - Apr. 2023: Postdoc Fellow** 
+
 ** University of Waterloo**
 
 - Studying security of blockchain technology.
@@ -18,13 +19,15 @@ Public key cryptography (post-quantum cryptography and provable security), Quant
 - Implementing in C of code-based schemes.
 
 ** 2015 - 2018 Ph.D. Research** 
+
 ** Cheikh Anta Diop University of Dakar - Senegal.**
 
 - Designing of post-quantum cryptosystems, 
 - Generalizing information set decoding attack 
 
 ** 2016 - 2018: Project ISPQ and CBC** 
-**Cheikh Anta Diop University of Dakar – Senegal**
+
+** Cheikh Anta Diop University of Dakar – Senegal**
 
 Implementing of a code-based key encapsulation mechanism (DAGS) in C for round 1 NIST PQC standardization.
 

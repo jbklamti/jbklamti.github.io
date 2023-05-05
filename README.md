@@ -57,6 +57,10 @@ Oct. 2020 - Apr. 2023: University of Waterloo -  Canada
 
 - Introducing information security for undergraduate students
 
+2016-2020: Institution Notre Dame de Dakar - Senegal
+
+- Lecturing Mathematics for High School Students
+
 
 
 #### Supervision of Master’s Thesis:
@@ -66,6 +70,12 @@ Oct. 2020 - Apr. 2023: University of Waterloo -  Canada
 Algebraic cryptanalysis of McEliece Cryptosystem, Master in Algebra, Geometry and Applications, Department of Mathematics and Computer Sciences - Faculty of Science and Technology, Cheikh Anta Diop University of Dakar - Senegal.
 - 2021: Adja Fatou Elisabeth KOUASSI 
 Application of AI in cybersecurity for detection of persistent threats, Master in Data Transmission and Information Security (TDSI), Department of Mathematics and Computer Sciences - Faculty of Science and Technology, Cheikh Anta Diop University of Dakar - Senegal 
+
+#### Other Experience:
+
+Sept. 2020: Baccalaureate Office, Cheikh Anta Diop University of Dakar – Senegal
+
+- In 2020, for the organization of national Baccalaureate examination in Senegal, I was the President of jury 976. This jury is one of the main juries of this national examination. It was made up of two sub-juries. As part of the jury work, I had to coordinate, delegate tasks and then make decisions for the smooth running of the tests.
 
 
 ### Publications:

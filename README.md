@@ -1,6 +1,6 @@
-### About Me 
+### Jean Belo KLAMTI 
 
-Jean Belo Klamti was a postdoc fellow in the Department of Electrical and Computer Engineering at the University of Waterloo form October 2020 to April 2023. For his university degrees, he attended the Cheikh Anta Diop University of Dakar, Senegal. His Ph.D. research was on the “Design of Post-quantum Cryptosystems and Generalization of the Information Set Decoding Attack”, focusing on the design of error-correcting codes and code-based encryption schemes. It allowed him to participate in the NIST post-quantum cryptography standardization competition by contributing to the implementation of a code-based candidate named DAGS. 
+was a postdoc fellow in the Department of Electrical and Computer Engineering at the University of Waterloo form October 2020 to April 2023. For his university degrees, he attended the Cheikh Anta Diop University of Dakar, Senegal. His Ph.D. research was on the “Design of Post-quantum Cryptosystems and Generalization of the Information Set Decoding Attack”, focusing on the design of error-correcting codes and code-based encryption schemes. It allowed him to participate in the NIST post-quantum cryptography standardization competition by contributing to the implementation of a code-based candidate named DAGS. 
 
 Before moving to Waterloo, Jean Belo was on the faculty from 2016 to 2020 at Cheikh Anta Diop of Dakar. He has experience in teaching and supervising undergraduate and graduate students.
 

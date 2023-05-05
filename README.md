@@ -75,7 +75,7 @@ Application of AI in cybersecurity for detection of persistent threats, Master i
 
 Sept. 2020: Baccalaureate Office, Cheikh Anta Diop University of Dakar – Senegal
 
-- In 2020, for the organization of national Baccalaureate examination in Senegal, I was the President of jury 976. This jury is one of the main juries of this national examination. It was made up of two sub-juries. As part of the jury work, I had to coordinate, delegate tasks and then make decisions for the smooth running of the tests.
+- In 2020, for the organization of national Baccalaureate examination in Senegal, I was the President of jury 976 (Wack Ngouna, Kaolack). This jury is one of the main juries of this national examination. It was made up of two sub-juries. As part of the jury work, I had to coordinate, delegate tasks and then make decisions for the smooth running of the tests.
 
 
 ### Publications:
@@ -107,5 +107,7 @@ Sept. 2020: Baccalaureate Office, Cheikh Anta Diop University of Dakar – Seneg
 - Jan. 2018: Ph.D. in Coding Cryptography Algebra and Applications, Cheikh Anta Diop University of Dakar
 - Apr. 2015 Master's Degree in Algebra Geometry and Applications, Cheikh Anta Diop University of Dakar
 - Dec. 2012: Bachelor's Degree in Mathematics and Computer Science,  Cheikh Anta Diop University of Dakar
+
+
 
 

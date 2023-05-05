@@ -9,7 +9,7 @@ Public key cryptography (post-quantum cryptography and provable security), Quant
 
 ### Work Experience
 
-#### Postdoc Fellow: 
+#### Postdoc Fellowship: 
 Oct. 2020 - Apr. 2023: University of Waterloo -  Canada
 
 - Studying security of blockchain technology.

@@ -77,6 +77,9 @@ Sept. 2020: Baccalaureate Office, Cheikh Anta Diop University of Dakar – Seneg
 
 - In 2020, for the organization of national Baccalaureate examination in Senegal, I was the President of jury 976 (Wack Ngouna, Kaolack). This jury is one of the main juries of this national examination. It was made up of two sub-juries. As part of the jury work, I had to coordinate, delegate tasks and then make decisions for the smooth running of the tests.
 
+### My Github Link
+
+[klambel-hash](https://github.com/klambel-hash)
 
 ### Publications:
 

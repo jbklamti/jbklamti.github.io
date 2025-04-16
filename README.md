@@ -100,6 +100,8 @@ Sept. 2020: Baccalaureate Office, Cheikh Anta Diop University of Dakar – Seneg
 
 #### Journal Papers:
 
+-
+- Revocable policy-based chameleon hash using lattices, Journal of Mathematical Cryptology 18.1 (2024): 20230012, (Co-authors: M. A. Hasan).
 - A code-based hybrid signcryption scheme, Accepted to the Journal of Mathematical Cryptology (2023), (Co-authors: M. A. Hasan).
 - Post-quantum two-party adaptor signature based on coding theory, Cryptography 2022, 6, 6. (Co-author: M. A. Hasan)
 - Generalized subspace subcodes with application in cryptology, IEEE Transactions on Information Theory (Volume: 65, Issue: 8, Aug. 2019), pages: 4641 - 4657, (Co-authors: T. P. Berger and C. T. Gueye).
